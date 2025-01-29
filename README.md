@@ -157,14 +157,5 @@ If you use this code in your research, please cite:
 ```bibtex
 @software{time_series_gnn,
   title = {Time Series Classification using Graph Neural Networks with Topological Features},
-  author = {Your Name},
-  year = {2023},
-  url = {https://github.com/yourusername/time_series_gnn}
-}
+  author = {Salil Patel},
 ```
-
-## Acknowledgments
-
-- The aeon library for time series datasets
-- PyTorch Geometric for GNN implementations
-- giotto-tda for topological data analysis tools
